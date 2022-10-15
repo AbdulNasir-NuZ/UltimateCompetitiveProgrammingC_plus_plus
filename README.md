@@ -1,1 +1,1 @@
-# UltimateCompetitiveProgrammingC-
+# UltimateCompetitiveProgrammingC++
